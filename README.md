@@ -1,2 +1,2 @@
-[ShoppingCart])(https://suryansh-shopping.netlify.app/)
+[ShoppingCart](https://suryansh-shopping.netlify.app/)
  
